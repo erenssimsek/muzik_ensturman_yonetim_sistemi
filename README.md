@@ -1,3 +1,4 @@
+Enstrüman Satın alma Uygulamamız da isteğe bağlı öncelikle Enstrüman eklenir. Ardından Sipariş verilir gerekli bilgiler doldurularak ve son olarak Müşteri bilgileri ve Satılan Enstrümanlar kontrol edilir.
 
 ![Ekran görüntüsü 2024-05-06 155830](https://github.com/erenssimsek/muzik_ensturman_yonetim_sistemi/assets/93097999/3a2a5eb6-1bb4-4a10-94b8-2f241f94ea6f)
 
